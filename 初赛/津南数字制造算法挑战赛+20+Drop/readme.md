@@ -35,4 +35,4 @@ python3 run.py --test_type=C
 如果有问题希望您联系我们
 
 陶亚凡： 765370813@qq.com
-常煜： cy_1995@qq.com 
+Blue： cy_1995@qq.com 
