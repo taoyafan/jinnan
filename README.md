@@ -1,4 +1,4 @@
-天池比赛：[津南数字制造算法挑战赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231695/introduction)b 榜 20 名 Drop 队代码
+天池比赛：[津南数字制造算法挑战赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231695/introduction)初赛 17 名 Drop 队代码
 
 + 作者: 陶亚凡 陕西科技大学
 
