@@ -82,7 +82,7 @@ numpy, pandas, lightgbm, xgboost, sklearn
 
  [历史程序](https://github.com/taoyafan/jinnan/tree/master/%E5%88%9D%E8%B5%9B/history)里面都是记录了我学习的历程，从最初学习鱼佬的程序开始，有些有用有些没用。
 
-## 程序说明程序说明
+## 程序说明
 
 + __程序思路:__ 
 
